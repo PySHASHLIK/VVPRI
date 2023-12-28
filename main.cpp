@@ -9,5 +9,6 @@ int main(){
     printf("Сумма введённых чисел: %d\n", inp1 + inp2);
     printf("Разность введённых чисел: %d\n", inp1 - inp2);
     printf("Произведение чисел: %d\n", inp1 * inp2);
+    printf("Деление чисел: %d\n", inp1/inp2);
     return 1;
 }
