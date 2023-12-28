@@ -7,5 +7,6 @@ int main(){
     printf("Введите второе число: \n");
     scanf("%d", &inp2);
     printf("Сумма введённых чисел: %d\n", inp1 + inp2);
+    printf("Разность введённых чисел: %d\n", inp1 - inp2);
     return 1;
 }
