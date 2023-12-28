@@ -1,5 +1,5 @@
 #include "sdt.h"
-
+// Ёто учебный проект
 int main(){
     int inp1, inp2;
     printf("¬ведите первое число: \n");
